@@ -7,12 +7,12 @@
 I m Happy To Know That You Just Visited My Github Profile.🙂
 A little more about me...
  <img align="right" alt="Coding" width="320" src="https://github.com/karimhosssion/Flutter-Network-Image-For-About/blob/main/images/18123-developer.gif">                                                                               
-- 🔭 I’m currently working on ... Web Development and Game Development.
+- 🔭 I’m currently working on ... Web Development.
 - 🌱 I’m currently learning ... Web Development
 - 👯 I’m looking to collaborate on ... Projects
 - 🤔 I’m looking for help with ... Web & Game Related Works
 - 💬 Ask me about ... Web Development
-- 📫 How to reach me: ... https://karimhossion.info/
+- 📫 How to reach me: ... https://app.hostapplex.com/
 - 😄 Pronouns: ... Karim Hossion
 - ⚡ Fun fact: ... Don't Talk about Crush I only Know About App & Game Crush
 
