@@ -19,7 +19,7 @@ A little more about me...
 ## Languages and Tools:
 
 <p align="left">   
-     <a href="" target="_blank"> <img src="https://img.icons8.com/?size=48&id=shQTXiDQiQVR&format=png&color=000000"/></a>
+     <a href="" target="_blank"> <img src="https://img.icons8.com/?size=48&id=shQTXiDQiQVR&format=png&color=000000"/>C</a>
      <a href="" target="_blank"> <img src="https://img.icons8.com/?size=48&id=40669&format=png&color=000000"/></a>
 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
