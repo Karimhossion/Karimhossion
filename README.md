@@ -10,11 +10,11 @@ A little more about me...
 - 🔭 I’m currently working on ... Web Development.
 - 🌱 I’m currently learning ... Web Development
 - 👯 I’m looking to collaborate on ... Projects
-- 🤔 I’m looking for help with ... Web & Game Related Works
+- 🤔 I’m looking for help with ... Web Related Works
 - 💬 Ask me about ... Web Development
 - 📫 How to reach me: ... https://arafat.hostaplex.com/
 - 😄 Pronouns: ... Karim Hossion
-- ⚡ Fun fact: ... Don't Talk about Crush I only Know About App & Game Crush
+- ⚡ Fun fact: ... Don't Talk about Crush I only Know About web
 
 ## Languages and Tools:
 
