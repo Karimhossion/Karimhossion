@@ -1,7 +1,10 @@
 # karim_hossion
  <img  src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">    
 <h1 align="center">Hi 👋, I'm Karim Hossion</h1>
-<h3 align="center">I'm a passionate Web Developer.</h3>
+<h3 align="center">A highly motivated and hardworking individual with a strong sense of self-drive and dedication. I
+am eager to secure a dynamic role that fosters professional development, allowing me to enhance
+my expertise and capabilities. With a solid educational foundation and strong leadership skills, I
+strive to make meaningful contributions to the success of the organization I join</h3>
  
  ## About Me
 I m Happy To Know That You Just Visited My Github Profile.🙂
